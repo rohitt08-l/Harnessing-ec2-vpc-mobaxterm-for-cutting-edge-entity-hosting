@@ -57,7 +57,7 @@ Presentation Layer → HTML/CSS Website
 ### Step 1 — Launch EC2 Instance
 
 * Create Ubuntu EC2 instance on AWS
-* Enable ports:
+* Enable ports :
 
   * SSH (22)
   * HTTP (80)
@@ -94,10 +94,10 @@ to:
 ### Step 5 — Restart Apache
 
 ```bash
-sudo systemctl restart apache2
+sudo systemctl restart apache2 
 ```
 
-### Step 6 — Launch Website
+### Step 6 — Launch the Website
 
 Open:
 
